@@ -1,4 +1,4 @@
-#
+#https://www.youtube.com/watch?v=a7DH88vk2Sk&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=31
 
 '''
     Aqui é aonde vai ter minhas revisões porém não irão estar salvas aq, mas na minha cabeça...
