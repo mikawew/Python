@@ -1,7 +1,7 @@
 '''
 if (parametro):
 
-elif
+elif (parametro):
 
 else:
     (parametro)
