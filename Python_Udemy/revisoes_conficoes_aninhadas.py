@@ -9,7 +9,7 @@ elif 5 <= media <= 6.9:
 from datetime import date
 lembrar do datetime para utilização do tempo no pc, torna a aplicação mais automática
 
-
+date.today().year
 
 
 """
