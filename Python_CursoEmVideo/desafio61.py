@@ -1,4 +1,3 @@
-
 print('Gerador de PA')
 
 primeiro = int(input('Primeiro termo: '))

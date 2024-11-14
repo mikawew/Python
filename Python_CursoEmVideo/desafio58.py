@@ -1,7 +1,7 @@
 import random
 
 count = 0
-pensando = random.randint(1, 5)
+pensando = random.randint(1, 10)
 
 resp = int(input('Advinhe o número que estou pensando de 1 a 10: '))
 
