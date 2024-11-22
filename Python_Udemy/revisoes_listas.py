@@ -24,5 +24,5 @@ valores = list(range(4,11)) <- uma função de lista
 valores.sort(reverse=True) <- coloca valores em ordem decrescente
 
 (LIGAÇÃO)
-b = a[:] <- Não há ligação desse jeito
+b = a[:] <- Não há ligação desse jeito, é uma copia
 '''
